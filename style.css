@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: timonium, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+main {
+  background-color: rgb(250,250,250);
+  display:grid;
+  justify-content: center;
+  align-items: center;
+  height:100%;
+}
+canvas {
+  display: block;
+}
